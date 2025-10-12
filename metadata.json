@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Glass POS - Point of Sale System",
+  "description": "An offline-first, modern Point of Sale (POS) application designed with a soft glass neumorphism aesthetic. It provides comprehensive features for sales, product management, reporting, and settings, all running locally in the browser.",
+  "requestFramePermissions": []
+}
